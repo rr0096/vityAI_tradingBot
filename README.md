@@ -77,6 +77,13 @@ Fenix is built on the cutting edge of the Python and AI ecosystem:
 
 ---
 
+🖥️ System Requirements
+The system is designed to run on consumer-grade hardware. These are the recommended specifications for an optimal experience.
+Operating System: macOS (Apple Silicon recommended) or Linux.
+CPU: An Apple Silicon chip (M1/M2/M3/M4) is recommended due to optimizations. A modern Intel/AMD processor should also work.
+RAM: 16 GB is the recommended minimum. The system is engineered to run within this limit thanks to dynamic memory management. 8 GB may struggle significantly.
+Disk Space: At least 25-30 GB of free space to install Ollama and the various language models.
+
 ## 🏁 Quickstart Guide
 
 **Clone the Repository:**
